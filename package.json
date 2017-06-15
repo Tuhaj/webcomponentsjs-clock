@@ -8,9 +8,13 @@
     "start": "http-server -p 8000"
   },
   "author": "Piotr Zientara",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "http-server": "^0.10.0",
     "webcomponents.js": "^0.7.24"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Tuhaj/webcomponentsjs-clock.git"
   }
 }
