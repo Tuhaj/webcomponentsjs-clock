@@ -1,0 +1,11 @@
+{
+  "name": "learning-web-components",
+  "version": "1.0.0",
+  "description": "Learning Web Components",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piotr Zientara",
+  "license": "ISC"
+}
